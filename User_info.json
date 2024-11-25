@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "userId": id,
+      "Name": "Alice Wolfe",
+      "email": "alice@gmail.com",
+      "Date": "2020-01-15"
+    }
+  ],
+  "posts": [
+    {
+      "postId": 2019,
+      "title": "Game of Thrones",
+      "content": "Ice and fire",
+      "userId": 1
+    },
+    {
+      "postId": 2005,
+      "title":"Supernatural" ,
+      "content": "Angels and Demons",
+      "userId": 2
+    },
+    {
+      "postId": 2008,
+      "title": "Breaking bad",
+      "content": "Drug Dealer",
+      "userId": 3
+    }
+  ]
+}
+
+    
