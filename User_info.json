@@ -12,19 +12,19 @@
       "postId": 2019,
       "title": "Game of Thrones",
       "content": "Ice and fire",
-      "userId": 1
+      "user_ID": 1
     },
     {
       "postId": 2005,
       "title":"Supernatural" ,
       "content": "Angels and Demons",
-      "userId": 2
+      "user_ID": 2
     },
     {
       "postId": 2008,
       "title": "Breaking bad",
       "content": "Drug Dealer",
-      "userId": 3
+      "user_ID": 3
     }
   ]
 }
