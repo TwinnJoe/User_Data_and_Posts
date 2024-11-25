@@ -5,6 +5,18 @@
       "Name": "Alice Wolfe",
       "email": "alice@gmail.com",
       "Date": "2020-01-15"
+    },
+    {
+      "userId": 2,
+      "Name": "Dustin Haynes",
+      "email": "haynes@gmail.com",
+      "Date": "2015-09-18"
+    },
+    {
+      "userId": 3,
+      "Name": "Ayleen Collins",
+      "email": "collins@gmail.com",
+      "Date": "2009-10-20"
     }
   ],
   "posts": [
